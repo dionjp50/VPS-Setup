@@ -15,6 +15,7 @@
 12. source ~/.bashrc
 13. go version (go version go1.23 linux/amd64)
 ==========================================================
+#
 after that i use tool from my great mentor RootBakar
 you have to visit repository there are a lot of way to make you better in pentesting
 https://github.com/rootbakar/bugbounty-toolkit
