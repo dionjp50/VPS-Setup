@@ -1,12 +1,12 @@
 # VPS-Setup
 # I use VPS for Pentesting
 
-1. apt update && apt upgrade -y
-2. apt install git
-3. apt install curl
-4. apt install wget
+1. sudo apt update && sudo apt upgrade -y
+2. sudo apt install git
+3. sudo apt install curl
+4. sudo apt install wget
 5. wget https://golang.org/dl/go1.23.0.linux-amd64.tar.gz
-6. sudo tar -C /usr/local -xvzf go1.23.linux-amd64.tar.gz
+6. sudo tar -C /usr/local -xvzf go1.23.0.linux-amd64.tar.gz
 7. nano ~/.profile
 8. export PATH=$PATH:/usr/local/go/bin
 9. nano ~/.bashrc
